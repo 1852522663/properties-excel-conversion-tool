@@ -32,7 +32,7 @@ import org.springframework.core.io.Resource;
  * Properties 与 Excel 文件互转
  * 如果是xls使用HSSFWorkbook；
  * 如果是xlsx，使用XSSFWorkbook
- * https://www.csdn.net/tags/MtTaMg2sMTE5ODAyLWJsb2cO0O0O.html
+ *
  */
 public class ConversionTool {
 
